@@ -1,0 +1,23 @@
+name: operation-subjects
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - blast
+  - meme
+  - fastqc
+  - fastp
+  - biopython
+  - mafft
+  - clustalo
+  - prodigal
+  - bedtools
+  - seqtk
+  - samtools
+  - matplotlib
+  - scipy
+  - pip:
+    - rich

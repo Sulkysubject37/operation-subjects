@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+app/__init__.py
+app/tui.py
+app/visualizer.py
+app/tools/__init__.py
+operation_subjects.egg-info/PKG-INFO
+operation_subjects.egg-info/SOURCES.txt
+operation_subjects.egg-info/dependency_links.txt
+operation_subjects.egg-info/requires.txt
+operation_subjects.egg-info/top_level.txt
