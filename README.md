@@ -4,11 +4,6 @@ A TUI-based bioinformatics suite that comes with all batteries included.
 
 This application provides a user-friendly terminal interface for common bioinformatics tools. It is packaged using Conda to ensure that all required tools and dependencies are installed automatically.
 
-## Author
-
-- **Name:** MD. Arshad
-- **Email:** arshad10867c@gmail.com
-
 ## Features
 
 - **Interactive TUI:** A clean, menu-driven interface built with `rich`.
@@ -42,7 +37,7 @@ This application provides a user-friendly terminal interface for common bioinfor
 
 2.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Sulkysubject37/operation-subjects
     cd Operation_Subjects
     ```
 
